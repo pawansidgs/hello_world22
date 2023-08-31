@@ -1,0 +1,12 @@
+{
+	"domains": {
+		"dev": "https://${org}-${env}.apigee.net"
+	},
+	"hello_world22": {
+		"basepath": "/v1/hello_world22",
+		"product":"hello_world22Product",
+		"app":"hello_world22App",
+		"org":"${org}",
+		"env":"${env}"
+	}
+}

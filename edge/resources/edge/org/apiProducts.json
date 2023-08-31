@@ -1,0 +1,29 @@
+[
+    {
+        "name": "hello_world22Product",
+        "apiResources": [],
+        "approvalType": "auto",
+        "attributes": [
+            {
+                "name": "description",
+                "value": "hello_world22Product"
+            },
+            {
+                "name": "access",
+                "value": "private"
+            }
+        ],
+        "description": "hello_world22Product",
+        "displayName": "hello_world22Product",
+        "environments": [
+            "${env}"
+        ],
+        "proxies": [
+            "hello_world22"
+        ],
+        "quota": "10000",
+        "quotaInterval": "1",
+        "quotaTimeUnit": "month",
+        "scopes": []
+    } 
+]
